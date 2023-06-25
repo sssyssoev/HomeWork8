@@ -96,5 +96,6 @@ public class Main {
 
         }
         System.out.println("Если значение элемента массива =0, то прибавляем 2");
+        System.out.println("ДЗ 38 будем сдавать");
     }
 }
